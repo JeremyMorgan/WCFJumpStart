@@ -1,0 +1,13 @@
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\bin\Debug\HelloWCFClient.exe.config
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\bin\Debug\HelloWCFClient.exe
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\bin\Debug\HelloWCFClient.pdb
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\obj\Debug\MainWindow.baml
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\obj\Debug\MainWindow.g.cs
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\obj\Debug\App.g.cs
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient_MarkupCompile.cache
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.g.resources
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.Properties.Resources.resources
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.csproj.GenerateResource.Cache
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.exe
+C:\Users\Jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.pdb

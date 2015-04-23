@@ -1,0 +1,6 @@
+c:\users\jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCF\bin\Debug\HelloWCF.dll.config
+c:\users\jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCF\bin\Debug\HelloWCF.dll
+c:\users\jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCF\bin\Debug\HelloWCF.pdb
+c:\users\jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCF\obj\Debug\HelloWCF.csprojResolveAssemblyReference.cache
+c:\users\jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCF\obj\Debug\HelloWCF.dll
+c:\users\jeremy\documents\visual studio 2013\Projects\HelloWCF\HelloWCF\obj\Debug\HelloWCF.pdb
