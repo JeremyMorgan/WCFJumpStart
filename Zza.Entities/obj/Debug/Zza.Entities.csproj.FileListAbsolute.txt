@@ -1,0 +1,5 @@
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\ZzaApp\Zza.Entities\bin\Debug\Zza.Entities.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\ZzaApp\Zza.Entities\bin\Debug\Zza.Entities.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.dll
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.pdb
