@@ -1,0 +1,5 @@
+C:\Users\jmorgan\Downloads\wcf-jumpstart\2-wcf-jumpstart-exercise-files\before\Zza.Entities\bin\Debug\Zza.Entities.dll
+C:\Users\jmorgan\Downloads\wcf-jumpstart\2-wcf-jumpstart-exercise-files\before\Zza.Entities\bin\Debug\Zza.Entities.pdb
+C:\Users\jmorgan\Downloads\wcf-jumpstart\2-wcf-jumpstart-exercise-files\before\Zza.Entities\obj\Debug\Zza.Entities.csprojResolveAssemblyReference.cache
+C:\Users\jmorgan\Downloads\wcf-jumpstart\2-wcf-jumpstart-exercise-files\before\Zza.Entities\obj\Debug\Zza.Entities.dll
+C:\Users\jmorgan\Downloads\wcf-jumpstart\2-wcf-jumpstart-exercise-files\before\Zza.Entities\obj\Debug\Zza.Entities.pdb
