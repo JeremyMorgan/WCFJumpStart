@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Eid Passport, Inc.")]
 [assembly: AssemblyProduct("Zza.Services")]
-[assembly: AssemblyCopyright("Copyright © Eid Passport, Inc. 2015")]
+[assembly: AssemblyCopyright("Copyright © Your Company, Inc. 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

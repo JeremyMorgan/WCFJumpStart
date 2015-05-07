@@ -1,0 +1,14 @@
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\bin\Zza.IISHost.dll.config
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\bin\Zza.IISHost.dll
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\bin\Zza.IISHost.pdb
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\bin\Zza.Services.dll
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\bin\Zza.Entities.dll
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\bin\Zza.Data.dll
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\bin\EntityFramework.dll
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\bin\Zza.Services.pdb
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\bin\Zza.Entities.pdb
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\bin\Zza.Data.pdb
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\bin\EntityFramework.xml
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\obj\Debug\Zza.IISHost.csprojResolveAssemblyReference.cache
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\obj\Debug\Zza.IISHost.dll
+C:\Users\jmorgan\documents\visual studio 2013\Projects\ZzaApp\Zza.IISHost\obj\Debug\Zza.IISHost.pdb
