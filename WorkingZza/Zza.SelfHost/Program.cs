@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.ServiceModel;
 using System.Text;
@@ -15,7 +16,6 @@ namespace Zza.SelfHost
 			try
 			{
 				ServiceHost host = new ServiceHost(typeof(ZzaService));
-
 				host.Open();
 				Console.WriteLine("Hit any key to exit");
 				Console.ReadKey();
@@ -23,7 +23,9 @@ namespace Zza.SelfHost
 			}
 			catch (Exception e)
 			{
+				Debug.WriteLine(e);
 				Console.WriteLine(e);
+
 			}
 		}
 	}

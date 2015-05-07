@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Zza.Services")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Eid Passport, Inc.")]
+[assembly: AssemblyCompany("Your Company, Inc.")]
 [assembly: AssemblyProduct("Zza.Services")]
 [assembly: AssemblyCopyright("Copyright © Your Company, Inc. 2015")]
 [assembly: AssemblyTrademark("")]
