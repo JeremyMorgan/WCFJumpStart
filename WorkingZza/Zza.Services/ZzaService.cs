@@ -9,8 +9,7 @@ using Zza.Data;
 namespace Zza.Services
 {
 	[ServiceBehavior (InstanceContextMode = InstanceContextMode.PerCall)]
-
-	class ZzaService : IZzaService, IDisposable
+	public class ZzaService : IZzaService, IDisposable
 	{
 		readonly ZzaDbContext _Context = new ZzaDbContext();
 
